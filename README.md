@@ -13,4 +13,4 @@ Este projeto é extremamente semelhante (senão igual), ao "Site da Marina", que
 `#HTML`
 `#PrimeiraProgramação`
 
- 🔗 Visite o Site! ()
+ 🔗 Visite o Site! (https://escandioneider.github.io/Aula-1-JavaScript/)
